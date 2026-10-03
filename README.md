@@ -36,7 +36,7 @@ Users can also enter their own text to get a sentiment prediction.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/twitter-crawling-nlp-kmeans.git
+git clone https://github.com/tiarasusilo/twitter-crawling-nlp-kmeans.git
 cd twitter-crawling-nlp-kmeans
 ```
 
